@@ -11,6 +11,7 @@
     * [4. Code Generation](#code-generation)
     * [5. Code Summarization](#code-summarization)
 * [Others](#others)
+* [Hiring](#hiring)
 
 ## Survey and Tools
 
@@ -32,7 +33,7 @@ This section covers datasets, evaluation methods on code related tasks.
 * CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models
 for Code Understanding and Generation (2021/06) [[pdf](https://arxiv.org/pdf/2109.00859.pdf), [code](https://github.com/salesforce/CodeT5)]
 * DOBF: A Deobfuscation Pre-Training Objective for Programming Languages (2021/10) [[pdf](https://arxiv.org/pdf/2102.07492.pdf), [code](https://github.com/facebookresearch/CodeGens)]
-
+* UniXcoder: Unified Cross-Modal Pre-training for Code Representation (2022/05) [[pdf](https://arxiv.org/pdf/2203.03850.pdf), [code](https://github.com/microsoft/CodeBERT)]
 ## Related Tasks
 
 ### Code Search
