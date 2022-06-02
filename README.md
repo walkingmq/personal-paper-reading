@@ -34,6 +34,9 @@ This section covers datasets, evaluation methods on code related tasks.
 for Code Understanding and Generation (2021/06) [[pdf](https://arxiv.org/pdf/2109.00859.pdf), [code](https://github.com/salesforce/CodeT5)]
 * DOBF: A Deobfuscation Pre-Training Objective for Programming Languages (2021/10) [[pdf](https://arxiv.org/pdf/2102.07492.pdf), [code](https://github.com/facebookresearch/CodeGens)]
 * UniXcoder: Unified Cross-Modal Pre-training for Code Representation (2022/05) [[pdf](https://arxiv.org/pdf/2203.03850.pdf), [code](https://github.com/microsoft/CodeBERT)]
+* ContraCode: Contrastive Code Representation Learning (2021/11) [[pdf](https://arxiv.org/pdf/2007.04973.pdf), [code](https://github.com/parasj/contracode)]
+* Text and Code Embeddings by Contrastive Pre-Training (2022/01) [[pdf](https://arxiv.org/pdf/2201.10005.pdf), [code]()]
+
 ## Related Tasks
 
 ### Code Search
@@ -57,4 +60,4 @@ Todo
 
 ## Hiring
 
-We are hiring interns in Shanghai office! If you are interested in working with us on NLP and large-scale pre-trained models on Code Intelligence, please send your resume to maoquanwang@microsoft.com.
+We are hiring interns in Shanghai office! If you are interested in working with us on NLP and large-scale pre-trained models on Code Intelligence, please send your resume to maoquanwang at microsoft.com.
