@@ -30,16 +30,18 @@ This section covers datasets, evaluation methods on code related tasks.
 
 ## Code Pre-Training
 * Learning and Evaluating Contextual Embedding of Source Code (2020/08, ICML) [[CuBERT](https://arxiv.org/pdf/2001.00059.pdf), [code](https://github.com/google-research/google-research/tree/master/cubert)]
-* CodeBERT: A Pre-Trained Model for Programming and Natural Languages (2020/09) [[CodeBERT](https://arxiv.org/pdf/2002.08155.pdf), [code](https://github.com/microsoft/CodeBERT)]
+* CodeBERT: A Pre-Trained Model for Programming and Natural Languages (2020/09, ACL) [[CodeBERT](https://arxiv.org/pdf/2002.08155.pdf), [code](https://github.com/microsoft/CodeBERT)]
 * Evaluating Large Language Models Trained on Code (2021/07) [[CodeX](https://arxiv.org/pdf/2107.03374.pdf)]
-* PLBART: Unified Pre-training for Program Understanding and Generation (2021/08) [[PLBART](https://arxiv.org/pdf/2103.06333.pdf), [code](https://github.com/wasiahmad/PLBART)]
-* SYNCOBERT: Syntax-Guided Multi-Modal Contrastive Pre-Training for Code Representation (2021/09) [[SYNCOBERT](https://arxiv.org/pdf/2108.04556v3.pdf), [code]()]
+* TreeBERT: A Tree-Based Pre-Trained Model for Programming Language (2021/07, UAI) [[TreeBERT](https://arxiv.org/pdf/2105.12485.pdf)]
+* PLBART: Unified Pre-training for Program Understanding and Generation (2021/08, NAACL) [[PLBART](https://arxiv.org/pdf/2103.06333.pdf), [code](https://github.com/wasiahmad/PLBART)]
+* SYNCOBERT: Syntax-Guided Multi-Modal Contrastive Pre-Training for Code Representation (2021/09, AAAI) [[SYNCOBERT](https://arxiv.org/pdf/2108.04556v3.pdf), [code]()]
 * CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models
-for Code Understanding and Generation (2021/06) [[CodeT5](https://arxiv.org/pdf/2109.00859.pdf), [code](https://github.com/salesforce/CodeT5)]
-* DOBF: A Deobfuscation Pre-Training Objective for Programming Languages (2021/10) [[DOBF](https://arxiv.org/pdf/2102.07492.pdf), [code](https://github.com/facebookresearch/CodeGens)]
-* UniXcoder: Unified Cross-Modal Pre-training for Code Representation (2022/05) [[UniXcoder](https://arxiv.org/pdf/2203.03850.pdf), [code](https://github.com/microsoft/CodeBERT)]
-* ContraCode: Contrastive Code Representation Learning (2021/11) [[ContraCode](https://arxiv.org/pdf/2007.04973.pdf), [code](https://github.com/parasj/contracode)]
+for Code Understanding and Generation (2021/06, ACL) [[CodeT5](https://arxiv.org/pdf/2109.00859.pdf), [code](https://github.com/salesforce/CodeT5)]
+* DOBF: A Deobfuscation Pre-Training Objective for Programming Languages (2021/10, NeurIPS) [[DOBF](https://arxiv.org/pdf/2102.07492.pdf), [code](https://github.com/facebookresearch/CodeGens)]
+* UniXcoder: Unified Cross-Modal Pre-training for Code Representation (2022/05, ACL) [[UniXcoder](https://arxiv.org/pdf/2203.03850.pdf), [code](https://github.com/microsoft/CodeBERT)]
+* ContraCode: Contrastive Code Representation Learning (2021/11, EMNLP) [[ContraCode](https://arxiv.org/pdf/2007.04973.pdf), [code](https://github.com/parasj/contracode)]
 * Text and Code Embeddings by Contrastive Pre-Training (2022/01) [[cpt-text](https://arxiv.org/pdf/2201.10005.pdf), [code]()]
+* CODE-MVP: Learning to Represent Source Code from Multiple Views with Contrastive Pre-Training (2022/05) [[CODE-MVP](https://arxiv.org/pdf/2205.02029.pdf), [code]()]
 
 
 ## Related Tasks
