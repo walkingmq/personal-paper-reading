@@ -5,12 +5,6 @@
 * [Benchmark and Evaluation](#benchmark-and-evaluation)
 * [Code Pre-Training](#code-pre-training)
 * [Related Tasks](#related-tasks)
-    * [1. Code Search](#code-search)
-    * [2. Code Completion](#code-completion)
-    * [3. Code Translation](#code-translation)
-    * [4. Code Generation](#code-generation)
-    * [5. Code Summarization](#code-summarization)
-* [Others](#others)
 * [Hiring](#hiring)
 
 ## Survey and Tools
@@ -20,6 +14,7 @@
 ## Benchmark and Evaluation
 This section covers datasets, evaluation methods on code related tasks.
 
+* Mapping language to code in programmatic context (2018/08, ACL) [[CONCODE](https://arxiv.org/abs/1808.09588), [code]()]
 * CodeSearchNet Challenge: Evaluating the State of Semantic Code Search (2020/06) [[CodeSearchNet](https://arxiv.org/pdf/1909.09436.pdf), [code](https://github.com/github/CodeSearchNet)]
 * CodeBLEU: a Method for Automatic Evaluation of Code Synthesis (2020/09) [[CodeBLEU](https://arxiv.org/pdf/2009.10297.pdf)]
 * CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation (2021/03) [[CodeXGLUE](https://arxiv.org/pdf/2102.04664.pdf), [code](https://github.com/microsoft/CodeXGLUE)]
@@ -44,29 +39,23 @@ for Code Understanding and Generation (2021/06, ACL) [[CodeT5](https://arxiv.org
 * ContraCode: Contrastive Code Representation Learning (2021/11, EMNLP) [[ContraCode](https://arxiv.org/pdf/2007.04973.pdf), [code](https://github.com/parasj/contracode)]
 * Text and Code Embeddings by Contrastive Pre-Training (2022/01) [[cpt-text](https://arxiv.org/pdf/2201.10005.pdf)]
 * CODE-MVP: Learning to Represent Source Code from Multiple Views with Contrastive Pre-Training (2022/05) [[CODE-MVP](https://arxiv.org/pdf/2205.02029.pdf)]
-
+* StructCoder: Structure-Aware Transformer for Code Generation (2022/06, arxiv) [[StructCoder](https://arxiv.org/abs/2206.05239), [code](https://github.com/reddy-lab-code-research/StructCoder)]
 
 ## Related Tasks
 
-### Code Search
+### Code Translation (PL-PL)
+* TransCoder: Unsupervised Translation of Programming Languages (2020/09) [[pdf](https://arxiv.org/pdf/2006.03511.pdf),[code](https://github.com/facebookresearch/CodeGens)]
+* TransCoder-ST: Leveraging Automated Unit Tests for Unsupervised Code Translation (2022/02) [[pdf](https://arxiv.org/pdf/2110.06773.pdf), [code](https://github.com/facebookresearch/CodeGens)]
+
+### Code Generation (NL-PL, PL-NL)
+Todo
+
+### Code Search (NL-PL, PL-PL)
 * Towards Learning (Dis)-Similarity of Source Code from Program Contrasts (2022/03) [[pdf](https://arxiv.org/pdf/2110.03868.pdf)]
 
 ### Code Completion
 * Multi-task Learning based Pre-trained Language Model for Code Completion (2020/12) [[pdf](https://arxiv.org/pdf/2012.14631.pdf)]
 * ReACC: A Retrieval-Augmented Code Completion Framework (2022/03) [[pdf](https://arxiv.org/pdf/2203.07722.pdf), [code](https://github.com/microsoft/ReACC)]
-
-### Code Translation
-* TransCoder: Unsupervised Translation of Programming Languages (2020/09) [[pdf](https://arxiv.org/pdf/2006.03511.pdf),[code](https://github.com/facebookresearch/CodeGens)]
-* TransCoder-ST: Leveraging Automated Unit Tests for Unsupervised Code Translation (2022/02) [[pdf](https://arxiv.org/pdf/2110.06773.pdf), [code](https://github.com/facebookresearch/CodeGens)]
-
-### Code Generation
-Todo
-
-### Code Summarization
-Todo
-
-## Others
-
 
 ## Hiring
 
