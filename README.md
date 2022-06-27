@@ -14,7 +14,7 @@
 ## Benchmark and Evaluation
 This section covers datasets, evaluation methods on code related tasks.
 
-* Mapping language to code in programmatic context (2018/08, ACL) [[CONCODE](https://arxiv.org/abs/1808.09588), [code]()]
+* Mapping language to code in programmatic context (2018/08, ACL) [[CONCODE](https://arxiv.org/abs/1808.09588), [code](https://github.com/sriniiyer/concode)]
 * CodeSearchNet Challenge: Evaluating the State of Semantic Code Search (2020/06) [[CodeSearchNet](https://arxiv.org/pdf/1909.09436.pdf), [code](https://github.com/github/CodeSearchNet)]
 * CodeBLEU: a Method for Automatic Evaluation of Code Synthesis (2020/09) [[CodeBLEU](https://arxiv.org/pdf/2009.10297.pdf)]
 * CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation (2021/03) [[CodeXGLUE](https://arxiv.org/pdf/2102.04664.pdf), [code](https://github.com/microsoft/CodeXGLUE)]
@@ -38,6 +38,7 @@ for Code Understanding and Generation (2021/06, ACL) [[CodeT5](https://arxiv.org
 * UniXcoder: Unified Cross-Modal Pre-training for Code Representation (2022/05, ACL) [[UniXcoder](https://arxiv.org/pdf/2203.03850.pdf), [code](https://github.com/microsoft/CodeBERT)]
 * ContraCode: Contrastive Code Representation Learning (2021/11, EMNLP) [[ContraCode](https://arxiv.org/pdf/2007.04973.pdf), [code](https://github.com/parasj/contracode)]
 * Text and Code Embeddings by Contrastive Pre-Training (2022/01) [[cpt-text](https://arxiv.org/pdf/2201.10005.pdf)]
+* A Conversational Paradigm for Program Synthesis (2022/03, arxiv) [[CODEGEN](https://arxiv.org/abs/2203.13474), [code](https://github.com/salesforce/CodeGen), [blog](https://blog.salesforceairesearch.com/codegen/)]
 * CODE-MVP: Learning to Represent Source Code from Multiple Views with Contrastive Pre-Training (2022/05) [[CODE-MVP](https://arxiv.org/pdf/2205.02029.pdf)]
 * StructCoder: Structure-Aware Transformer for Code Generation (2022/06, arxiv) [[StructCoder](https://arxiv.org/abs/2206.05239), [code](https://github.com/reddy-lab-code-research/StructCoder)]
 
@@ -48,7 +49,9 @@ for Code Understanding and Generation (2021/06, ACL) [[CodeT5](https://arxiv.org
 * TransCoder-ST: Leveraging Automated Unit Tests for Unsupervised Code Translation (2022/02) [[pdf](https://arxiv.org/pdf/2110.06773.pdf), [code](https://github.com/facebookresearch/CodeGens)]
 
 ### Code Generation (NL-PL, PL-NL)
-Todo
+* Code Summarization with Structure-induced Transformer (2020/12, ACL) [[pdf](https://arxiv.org/abs/2012.14710v2), code]
+* Learning Sequential and Structural Information for Source Code Summarization (2021, ACL) [[pdf](https://aclanthology.org/2021.findings-acl.251.pdf), code]
+* Retrieval Augmented Code Generation and Summarization (2021/08, ACL) [[REDCODER](https://arxiv.org/abs/2108.11601), [code](https://github.com/rizwan09/REDCODER)]
 
 ### Code Search (NL-PL, PL-PL)
 * Towards Learning (Dis)-Similarity of Source Code from Program Contrasts (2022/03) [[pdf](https://arxiv.org/pdf/2110.03868.pdf)]
