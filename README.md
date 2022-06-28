@@ -39,6 +39,7 @@ for Code Understanding and Generation (2021/06, ACL) [[CodeT5](https://arxiv.org
 * ContraCode: Contrastive Code Representation Learning (2021/11, EMNLP) [[ContraCode](https://arxiv.org/pdf/2007.04973.pdf), [code](https://github.com/parasj/contracode)]
 * Text and Code Embeddings by Contrastive Pre-Training (2022/01) [[cpt-text](https://arxiv.org/pdf/2201.10005.pdf)]
 * A Conversational Paradigm for Program Synthesis (2022/03, arxiv) [[CODEGEN](https://arxiv.org/abs/2203.13474), [code](https://github.com/salesforce/CodeGen), [blog](https://blog.salesforceairesearch.com/codegen/)]
+* InCoder: A Generative Model for Code Infilling and Synthesis [[InCoder](https://arxiv.org/abs/2204.05999), [code](https://github.com/dpfried/incoder)]
 * CODE-MVP: Learning to Represent Source Code from Multiple Views with Contrastive Pre-Training (2022/05) [[CODE-MVP](https://arxiv.org/pdf/2205.02029.pdf)]
 * StructCoder: Structure-Aware Transformer for Code Generation (2022/06, arxiv) [[StructCoder](https://arxiv.org/abs/2206.05239), [code](https://github.com/reddy-lab-code-research/StructCoder)]
 
@@ -54,7 +55,7 @@ for Code Understanding and Generation (2021/06, ACL) [[CodeT5](https://arxiv.org
 * Retrieval Augmented Code Generation and Summarization (2021/08, ACL) [[REDCODER](https://arxiv.org/abs/2108.11601), [code](https://github.com/rizwan09/REDCODER)]
 
 ### Code Search (NL-PL, PL-PL)
-* Towards Learning (Dis)-Similarity of Source Code from Program Contrasts (2022/03) [[pdf](https://arxiv.org/pdf/2110.03868.pdf)]
+* Towards Learning (Dis)-Similarity of Source Code from Program Contrasts (2022/03) [[DISCO](https://arxiv.org/pdf/2110.03868.pdf)]
 
 ### Code Completion
 * Multi-task Learning based Pre-trained Language Model for Code Completion (2020/12) [[pdf](https://arxiv.org/pdf/2012.14631.pdf)]
